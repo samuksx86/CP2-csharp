@@ -283,3 +283,4 @@ C:/repo/project/CheckPoint/CheckPoint/obj/Debug/net8.0/ref/CheckPoint.dll
 /Users/samuelramosdealmeida/Downloads/CheckPoint-2-csharp-FIAP-master/obj/Debug/net8.0/CheckPoint.pdb
 /Users/samuelramosdealmeida/Downloads/CheckPoint-2-csharp-FIAP-master/obj/Debug/net8.0/CheckPoint.genruntimeconfig.cache
 /Users/samuelramosdealmeida/Downloads/CheckPoint-2-csharp-FIAP-master/obj/Debug/net8.0/ref/CheckPoint.dll
+/Users/samuelramosdealmeida/Downloads/CheckPoint-2-csharp-FIAP-master/obj/Debug/net8.0/CheckPoint.sourcelink.json
